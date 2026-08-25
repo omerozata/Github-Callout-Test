@@ -1,4 +1,9 @@
 
+> [!NOTE] 
+> > Mavi kutu testi
+
+
+
 ## 🔵 MAVİ (GENEL & BİLGİ)
 
 > [!NOTE] NOTE
